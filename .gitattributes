@@ -1,0 +1,8 @@
+config.ini filter=lfs diff=lfs merge=lfs -text
+datasets filter=lfs diff=lfs merge=lfs -text
+setup.py filter=lfs diff=lfs merge=lfs -text
+Now-2022 filter=lfs diff=lfs merge=lfs -text
+Now-2022.txt filter=lfs diff=lfs merge=lfs -text
+QM-mod filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
